@@ -11,7 +11,7 @@ Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficie
 - 🌍 Idiomas: Español (Nativo), Inglés (Avanzado).
 
 ---
-CV
+# ![Mi CV](https://github.com/exsaol24/exsaol24/blob/main/cv.png)
 ---
 ---
 
