@@ -1,60 +1,55 @@
-<h1 align="center">¡Bienvenido a mi GitHub!</h1>
+# ![Mi Banner](https://github.com/exsaol24/exsaol24/main/banner)  
+# ¡Hola! 👋 Soy **Chahine**  
+Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficientes y elegantes. 🚀  
 
-<div align="center">
-  <img src="asset/banner.png" alt="Banner Personal" />
-</div>
+---
 
-<p align="justify">Soy <b>desarrollador de software</b> con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como <b>JavaScript, Python, HTML, CSS, y frameworks como React, Node.js, y Bootstrap.</b></p>
+## 🌟 Sobre mí  
+- 🎓 Siempre aprendiendo y explorando nuevas tecnologías.  
+- 💻 Apasionado por el desarrollo web y la automatización de tareas.  
+- 🌍 Idiomas: Español, Inglés, Arabe.  
 
-<p align="justify">Además, cuento con habilidades en resolución de problemas, trabajo en equipo y autogestión. Me apasiona aprender nuevas tecnologías y buscar soluciones innovadoras para proyectos desafiantes. Estoy constantemente en la búsqueda de oportunidades para seguir creciendo profesionalmente.</p>
+---
 
-<div align="center">
-  <a href="MiCV.pdf" download="MiCV.pdf" target="_blank">
-    <img src="asset/cv.svg" width="52" height="40" alt="Descargar CV" title="Descargar CV" />
-  </a>
-  <a href="https://mi-portfolio.com" target="_blank">
-    <img src="asset/portfolio.svg" width="52" height="40" alt="Portfolio" title="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mi-perfil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <a href="mailto:mi-correo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" title="Email" />
-  </a>
-</div>
+## ⚡ Habilidades  
+### Lenguajes  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
 
-<h2 align="left">Tecnologías que manejo</h2>
+### Frameworks y Herramientas  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
 
-<h3>Back-end</h3>
-<div align="left">
-  <img src="asset/nodejs.svg" alt="Node.js" title="Node.js" height="40" width="40">&nbsp;
-  <img src="asset/express.svg" alt="Express" title="Express.js" height="40" width="40">&nbsp;
-  <img src="asset/python.svg" alt="Python" title="Python" height="40" width="40">&nbsp;
-</div>
+### Bases de Datos  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
-<h3>Front-end</h3>
-<div align="left">
-  <img src="asset/react.svg" alt="React" title="React" height="40" width="40">&nbsp;
-  <img src="asset/html.svg" alt="HTML" title="HTML" height="40" width="40">&nbsp;
-  <img src="asset/css.svg" alt="CSS" title="CSS" height="40" width="40">&nbsp;
-  <img src="asset/javascript.svg" alt="JavaScript" title="JavaScript" height="40" width="40">&nbsp;
-</div>
+---
 
-<h3>Bases de datos</h3>
-<div align="left">
-  <img src="asset/mysql.svg" alt="MySQL" title="MySQL" height="40" width="40">&nbsp;
-  <img src="asset/mongodb.svg" alt="MongoDB" title="MongoDB" height="40" width="40">&nbsp;
-</div>
+## 🌟 Proyectos Destacados  
+- 🔧 [**Mi App**](https://github.com/cchrCoding05/mi-app):  
+  Una herramienta para gestionar tareas. Incluye funcionalidades de lista de tareas, asignación de prioridades y notificaciones.  
 
-<h3>Herramientas</h3>
-<div align="left">
-  <img src="asset/git.svg" alt="Git" title="Git" height="40" width="40">&nbsp;
-  <img src="asset/github.svg" alt="GitHub" title="GitHub" height="40" width="40">&nbsp;
-  <img src="asset/docker.svg" alt="Docker" title="Docker" height="40" width="40">&nbsp;
-</div>
+- 🌐 [**Portafolio**](https://github.com/cchrCoding05/portafolio):  
+  Mi portafolio personal creado con HTML y CSS, con un diseño responsivo y elegante.
 
-<h3>Otros</h3>
-<div align="left">
-  <img src="asset/linux.svg" alt="Linux" title="Linux" height="40" width="40">&nbsp;
-  <img src="asset/windows.svg" alt="Windows" title="Windows" height="40" width="40">&nbsp;
-</div>
+---
+
+## 📊 Estadísticas  
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=cchrCoding05&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cchrCoding05&layout=compact&theme=radical)
+
+---
+
+## 📫 Contáctame  
+- ✉️ [Email](mailto:chahinechrayehelmokhtari@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/chrayehChahine)  
+- 🌐 [Mi página web](https://cchrCoding05.github.io)
+
+---
+
+> *"El código es poesía y la solución es arte."* ✨
