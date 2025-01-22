@@ -11,7 +11,7 @@ Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficie
 - 🌍 Idiomas: Español (Nativo), Inglés (Avanzado).
 
 ---
-# ![Mi CV](https://github.com/exsaol24/exsaol24/blob/main/cv.png)
+# ![Mi CV](https://github.com/exsaol24/exsaol24/blob/main/cvv.png)
 ---
 ---
 
@@ -54,8 +54,8 @@ Soy **desarrollador de aplicaciones web** apasionado por crear soluciones eficie
 
 ## 📬 Contáctame  
 <div align="center">  
-  <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
-  <a href="https://linkedin.com/in/chrayehChahine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
+  <a href="mailto:exsaol24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
+  <a href="https://linkedin.com/in/exsaol24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
   <a href="https://github.com/exsaol24"><img src="https://img.shields.io/badge/Mi_Página_Web-000000?style=for-the-badge&logo=github&logoColor=white" alt="Página web" /></a>  
 </div>
 
