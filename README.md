@@ -53,11 +53,11 @@ Aquí se muestran las tecnologías y herramientas con las que trabajo habitualme
 ## 🌙 Proyectos Destacados  
 Aquí te presento algunos de mis proyectos más representativos:
 
-- 🛠️ [**Mi App**](https://github.com/cchrCoding05/mi-app):  
+- 🛠️ [**Mi App**](https://github.com/exsaol24/Kebab-las-ninas):  
   Una herramienta robusta diseñada para la gestión eficiente de tareas. Incluye funcionalidades avanzadas de lista de tareas, asignación de prioridades dinámicas y un sistema de notificaciones personalizable.
-  *Tecnologías usadas: [**POR FAVOR, COMPLETA ESTO con las tecnologías reales, ej: React, Node.js, Express, MongoDB**]*
+  *Tecnologías usadas: *PHP,TAILWINDCSS,Javascript,CSS,HTML5,*
 
-- 🌐 [**Portafolio**](https://github.com/cchrCoding05/portafolio):  
+- 🌐 [**Portafolio**](https://github.com/exsaol24/exsaol24):  
   Mi portafolio personal, meticulosamente diseñado con HTML y CSS, con un enfoque en la responsividad y una estética limpia y moderna para mostrar mis proyectos y habilidades de desarrollo.
   *Tecnologías usadas: HTML5, CSS3, JavaScript*
 
